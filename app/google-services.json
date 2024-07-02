@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568914075662",
+    "project_id": "bulletinboard-d69c7",
+    "storage_bucket": "bulletinboard-d69c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568914075662:android:300fa3140275e422351c5f",
+        "android_client_info": {
+          "package_name": "com.slava.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyLny0JL04T60uc8WBlnBbc1V7jsMVaBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
